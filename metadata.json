@@ -1,0 +1,5 @@
+{
+  "name": "Gestão Merenda V6",
+  "description": "Sistema de gestão de alimentação escolar com controle de estoque, recebimento e planejamento de produção baseado em per capita (PNAE).",
+  "requestFramePermissions": []
+}
